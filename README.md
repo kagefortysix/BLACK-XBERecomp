@@ -4,7 +4,12 @@ An unofficial native PC port of the original Xbox version of Black, with extende
 This port was created using the [Xbox XBE Recomp](https://github.com/TGP482/XboxXBE-Recomp) tool.
 
 > [!NOTE]
-> This fork is identical to the upstream repository, with the only difference being the addition of built-in cheat features.
+> **Fork Information:**
+> This fork is identical to the upstream repository ([TGP482/BLACK-XBERecomp](https://github.com/TGP482/BLACK-XBERecomp)), with the only difference being the addition of a **built-in Cheats Menu & Weapon Spawner** (accessible via the Settings overlay by pressing `F10`):
+> - **Weapon Spawner** - Spawn any weapon directly during gameplay.
+> - **Weapons** - Infinite Ammo, Infinite Grenades, Rapid Fire, No Recoil.
+> - **Player** - God Mode, One-Hit Kill, ESP Lines, Aimbot (while aiming in).
+> - **Game** - Adjustable Game Speed, Unlock All Missions, Unlock Black Ops difficulty.
 >
 > This project does not include any game assets. You must provide the files from your own legally acquired copy of the game to install or build.
 
